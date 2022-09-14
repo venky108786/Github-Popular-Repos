@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.card {
+  background-color: #f8f8ff;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+.img {
+  height: 80px;
+  width: 80px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+.para {
+  margin: 0px;
+}
+
+.card-head {
+  color: #e73959;
+  font-size: 20px;
+}

@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.li {
+  color: #000000;
+  margin: 15px;
+  margin-top: 0px;
+}
+.li-style {
+  border: 2px solid #1e293b;
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+.button {
+  cursor: pointer;
+  outline: none;
+  border: 0px;
+  background-color: transparent;
+}

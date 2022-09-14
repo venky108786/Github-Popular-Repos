@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.main-bg {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+.popular-heading {
+  font-size: 40px;
+  color: #000000;
+  font-family: Lobster;
+  font-weight: 700;
+}
+.ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+.card-container {
+  display: flex;
+  flex-direction: row;
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
